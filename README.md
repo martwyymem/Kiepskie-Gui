@@ -1,6 +1,6 @@
 # Kiepski TV
 
-A trashy Świat według Kiepskich player with embedded VLC, and custom UI.
+A trashy Świat według Kiepskich player with embedded VLC and custom UI.
 
 ##Requires Internet Connection
 
