@@ -2,7 +2,7 @@
 
 A trashy Świat według Kiepskich player with embedded VLC and custom UI.
 
-##Requires Internet Connection
+## Requires Internet Connection (episodes are stored online)
 
 ## Features
 
@@ -18,6 +18,8 @@ A trashy Świat według Kiepskich player with embedded VLC and custom UI.
 - Python 3
 - `python-vlc`
 - `Pillow`
+
+## Install attached font for best experience
 
 ## Usage
 
