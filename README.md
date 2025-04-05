@@ -27,5 +27,5 @@ A trashy Świat według Kiepskich player with embedded VLC and custom UI.
 2. Run:
 
 ```bash
-python kiepski_tv.py
+python kiepscy-gui.py
 
