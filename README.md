@@ -2,6 +2,8 @@
 
 A trashy Świat według Kiepskich player with embedded VLC and custom UI.
 
+![Kiepskie GUI Screenshot](kiepskieguiscreenshot.png)
+
 ## Requires Internet Connection (episodes are stored online)
 
 ## Features
